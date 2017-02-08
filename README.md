@@ -1,3 +1,4 @@
+[![Build Status](http://jenkins.chico.liatr.io/job/BossyUI-Jenkins/badge/icon)](http://jenkins.chico.liatr.io/job/BossyUI-Jenkins/)
 Group BossyUI: Luke, Luke, Sam, Tam, Myron
 
 ##Hello_Jenkins <img align="right" src="img/liatrio.png">
